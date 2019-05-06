@@ -1,0 +1,751 @@
+git基本使用教程
+https://zhuanlan.zhihu.com/p/30044692
+
+SpringCloud基础教程
+https://blog.csdn.net/forezp/article/details/70148833
+
+Maven的41种骨架介绍
+https://www.cnblogs.com/alfredinchange/p/5877416.html
+
+fiddler从服务器端修改返回的数据
+https://blog.csdn.net/StarsionBlog/article/details/73089010
+
+第一次运行fiddler
+https://www.telerik.com/download/fiddler/first-run
+
+Fiddler4抓包工具使用教程一
+https://www.cnblogs.com/GreenLeaves/p/6971452.html
+
+手机连接Fiddler
+https://jingyan.baidu.com/article/03b2f78c7b6bb05ea237aed2.html
+
+kali linux安装教程
+https://blog.csdn.net/qq_40950957/article/details/80468030
+
+Hbuilder x 极客常用快捷键
+https://www.baidu.com/link?url=ioPS3ElVT3tNamrISkX0wWjeFmOn4j21XV5oTmnwk7lnG4WL0URcRVHHEiD-t3QRLYT76J5-Xb25vuitv5zyeAYlEr1tY0-wYL-rJXbW91_&wd=&eqid=ff2fe7c5000269d1000000025cbfd418
+
+用Java GUI做一个简单的管理系统
+https://blog.csdn.net/qq_36330228/article/details/70212771
+
+表白连接
+https://blog.csdn.net/wuxia2001/article/details/45743641
+
+AWT&&Swing教程
+https://wenku.baidu.com/view/232db9ca27fff705cc1755270722192e4536587b.html
+
+手动安装git教程
+https://www.cnblogs.com/lijinhui/p/6901220.html
+
+git使用教程
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+
+idea汇总
+https://blog.csdn.net/fanrenxiang/article/details/80503490
+
+html转义字符
+http://114.xixik.com/character/
+
+后台网站链接模板地址
+http://www.mycodes.net/154/
+
+IDEA教程
+http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/
+
+
+Maven依赖范围常见的
+https://blog.csdn.net/seasonsbin/article/details/79093647
+
+
+如何避免并发情况下的重复提交
+https://blog.csdn.net/nakiri_arisu/article/details/79273594
+
+
+400行代码手写一个SpringMVC框架链接：https://pan.baidu.com/s/1SAKk2etjQ_1M4cNBXBjk2Q 
+提取码：f2zv
+
+博客地址
+http://www.thinksns.com/experience.html
+
+催收系统
+http://www.fintecher.cn/a/kehuanli/
+
+Maven中央仓库连接地址：
+http://repo.maven.apache.org/maven2/
+
+Mysql创建和删除索引
+http://www.cnblogs.com/IT-Monkey/p/3293131.html
+
+Java面试题亨利一 反射
+http://blog.csdn.net/maizi1045/article/details/53258551
+
+网络爬虫及存放数据库
+http://blog.csdn.net/qy20115549/article/details/52203722
+
+Java网络爬虫 使用Jsoup的select语法查询html元素
+http://blog.csdn.net/championhengyi/article/details/68491306
+
+Java网络爬虫--HTML DOM（HTML 基础）
+http://blog.csdn.net/championhengyi/article/details/58305723
+
+Maven Repository pom.xml中依赖的jar包信息写法
+http://mvnrepository.com/....
+例如：http://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2/2.1
+
+开源框架：DBUtils使用详解
+http://blog.csdn.net/samjustin1/article/details/52220423
+
+session依赖cookie，如果浏览器禁用了cookie呢？
+http://blog.csdn.net/github_36301064/article/details/53412600
+
+nginx 实现反向代理 
+http://blog.csdn.net/lishaojun0115/article/details/53200629
+
+可插拔数据库
+http://book.51cto.com/art/201410/453580.htm
+
+java实现网络爬虫用哪个爬虫框架比较好
+https://zhidao.baidu.com/question/1371690094383605899.html
+
+分布式网络爬虫
+http://www.cnblogs.com/cstzhou/p/5513816.html
+
+ Java多层翻页网络爬虫实战(以搜房网为例)
+http://blog.csdn.net/qy20115549/article/details/52912532
+
+java.net.URLEncode编码 与URLDecode编码转换
+http://blog.csdn.net/luojian520025/article/details/9139293
+
+Jquery素材模板网站
+http://wq14461943.faisco.cn/
+
+按钮特效代码
+http://sc.chinaz.com/tag_jiaoben/AnNiu.html
+
+分页插件pagehelper
+https://www.2cto.com/database/201703/613116.html
+
+降低数据压力的集中解决方案
+http://blog.csdn.net/xidiancyp/article/details/51519755
+
+https工作原理
+http://blog.csdn.net/sean_cd/article/details/6966130
+
+常用的排序算法的时间复杂度和空间复杂度
+http://blog.csdn.net/wuxinyicomeon/article/details/5996675/
+
+详解synchronized与Lock的区别与使用
+http://blog.csdn.net/u012403290/article/details/64910926?locationNum=11&fps=1
+
+MongoDB与Redis的比较
+http://blog.csdn.net/wuhenzhangxing/article/details/74178461
+
+云计算
+http://www.chinacloud.cn/show.aspx?id=14959&cid=22
+
+MySQL高可用浅析：MySQL HA方案
+http://developer.51cto.com/art/201505/476215.htm
+
+MySQL5.6 双机HA高可用部署方案
+http://blog.csdn.net/watermelonbig/article/details/52377188
+
+MYSQL复制的几种模式
+http://blog.csdn.net/adparking/article/details/7586054
+
+ZooKeeper一致性原理
+http://blog.csdn.net/wq237wq/article/details/51607180
+
+ZooKeeper用途
+http://blog.csdn.net/tycoon1988/article/details/38866395
+
+MongoDB与Redis的比较
+http://blog.csdn.net/wuhenzhangxing/article/details/74178461
+
+每天进步一点点——五分钟理解一致性哈希算法(consistent hashing)
+http://blog.csdn.net/cywosp/article/details/23397179/
+
+详解synchronized与Lock的区别与使用
+http://blog.csdn.net/u012403290/article/details/64910926?locationNum=11&fps=1
+
+ json在项目中的应用大总结
+http://blog.csdn.net/u012102536/article/details/77726209
+
+JSON与XML的区别比较
+http://www.cnblogs.com/SanMaoSpace/p/3139186.html
+
+react.js 库
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+超时 调用Webservice超时怎么办
+http://blog.csdn.net/szfang1860/article/details/50067073
+
+java web session+cookie实现用户自动登录
+http://blog.csdn.net/dinghaoseu/article/details/50359363
+
+SSH 三大框架的流程是怎样走的？
+http://bbs.csdn.net/topics/380063827
+
+知识点连接
+http://blog.csdn.net/piaojun_pj/article/details/5888104 
+
+http://blog.csdn.net/liu_shi_jun/article/details/51329472
+
+http://blog.csdn.net/zhushuhai331/article/details/50477390
+
+JavaWeb登录、注销、退出、记住用户名和密码
+http://blog.csdn.net/kenhins/article/details/19122407
+
+session.invalidate() 设置sesison失效
+http://blog.csdn.net/jethai/article/details/52345143
+
+frameset页面，需要整个页面跳转，而不是frameset框架下的页面
+http://blog.csdn.net/j04110414/article/details/23677139
+
+EL表达式 （详解）
+http://blog.csdn.net/qwerasdf123/article/details/4189889
+
+JSP的四个作用域
+http://blog.csdn.net/koches/article/details/7785438
+
+单例模式优缺点
+http://blog.csdn.net/tayanxunhua/article/details/8250329/
+
+AspectJ切入点语法详解
+http://jinnianshilongnian.iteye.com/blog/1415606
+
+关于list集合的remove和Iterator的remove
+http://blog.csdn.net/world_java/article/details/8665497
+
+hibernate延迟加载（懒加载）详解
+http://blog.csdn.net/java958199586/article/details/7069901
+
+为什么说ArrayList是线程不安全的？
+http://blog.csdn.net/jiaochunyu1992/article/details/51177373
+
+简述document.write和 innerHTML的区别。
+https://www.nowcoder.com/questionTerminal/2c5d8105b2694d85b06eff85e871cf50
+
+数据库SQL优化大总结之 百万级数据库优化方案
+http://database.51cto.com/art/201407/445934.htm
+
+javaweb简单的登录注册功能实现
+http://blog.csdn.net/qq_24473141/article/details/51363662
+
+Mybatis各种模糊查询
+http://blog.csdn.net/luqin1988/article/details/7865643
+
+Mybatis中的模糊查询(like)
+http://blog.csdn.net/wangxin1982314/article/details/52329925
+
+重温数据结构：二叉树的常见方法及三种遍历方式 Java 实现
+http://blog.csdn.net/u011240877/article/details/53193918
+
+用递归实现判断一个字符串是否是回文的方法
+http://blog.csdn.net/lzufeng/article/details/52331497
+
+现有1~100共一百个自然数，已随机放入一个有98个元素的数组a[98]
+https://segmentfault.com/q/1010000005645703
+
+ java实现快速排序
+http://blog.csdn.net/wangkuifeng0118/article/details/7286332
+
+查询每个部门总工资,和每个部门的平均工资的sql语句?
+https://zhidao.baidu.com/question/495799310.html
+
+在面试的时候碰到一个 问题，就是让写一张表中有id和name 两个字段，查询出name重复的所有数据，现在列下
+http://www.cnblogs.com/wangfuyou/p/6058169.html
+
+JSP的四个作用域
+http://blog.csdn.net/koches/article/details/7785438
+
+MySQL数据库如何解决大数据量存储问题
+http://blog.csdn.net/likika2012/article/details/38816037
+
+Java 多线程（八） 线程状态图
+http://www.cnblogs.com/mengdd/archive/2013/02/20/2917966.html
+
+数据库事务四大特性
+http://blog.csdn.net/wolenski/article/details/7980521
+
+HTTP Method
+http://www.cnblogs.com/ID890/p/http.html
+
+RestFul WebService的创建和使用实例
+http://blog.csdn.net/sunroyi666/article/details/51918675
+
+JS 中判断空值 undefined 和 null
+http://www.cnblogs.com/thiaoqueen/p/6904398.html
+
+hibernate延迟加载（懒加载）详解
+http://blog.csdn.net/java958199586/article/details/7069901
+
+String与StringBuffer的区别
+http://blog.csdn.net/lclai/article/details/6141548
+
+Oracle行转列、列转行的Sql语句总结
+https://www.2cto.com/database/201501/367164.html
+
+Oracle 行转列pivot 、列转行unpivot 的Sql语句总结
+http://blog.csdn.net/xiaokui_wingfly/article/details/42419207
+
+ExecutorService 的理解与使用
+http://blog.csdn.net/bairrfhoinn/article/details/16848785
+
+JAVA学习笔记（三）-并发编程 Callable Future CompleableFuture
+http://blog.csdn.net/chenlin597898889/article/details/51690149
+
+登陆页面实现保存帐号密码功能
+http://blog.csdn.net/v123411739/article/details/26404691
+
+ Servlet与CGI的区别
+http://blog.csdn.net/kobejayandy/article/details/11906125
+
+ssm权限管理的设计与实现（一）
+http://blog.csdn.net/gyjqgz/article/details/54340554
+
+并发编程 Promise, Future 和 Callback
+http://ifeve.com/promise-future-callback/
+
+《JAVA并发编程实践》读书笔记（一）
+http://blog.csdn.net/youngweiquan/article/details/52090432
+
+Java 内存溢出（java.lang.OutOfMemoryError）的常见情况和处理方式总结
+http://outofmemory.cn/c/java-outOfMemoryError
+
+jQuery 弹出窗口2秒后自动关闭
+http://blog.csdn.net/xjhtmxx/article/details/51672243
+
+线程安全
+https://baike.baidu.com/item/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8/9747724?fr=aladdin
+
+ThreadLocal 内存泄露的实例分析
+http://www.importnew.com/22046.html
+
+深入剖析ThreadLocal实现原理以及内存泄漏问题
+http://blog.csdn.net/lhqj1992/article/details/52451136
+
+彻底理解ThreadLocal
+http://blog.csdn.net/lufeng20/article/details/24314381
+
+揭露forward和redirect的本质(区别)—老事重谈！
+http://blog.csdn.net/chenleixing/article/details/45021257
+
+java怎么让数组的数字从大到小排序？
+https://zhidao.baidu.com/question/1511151421511322380.html
+
+Java中==和equals的区别，equals和hashCode的区别
+http://blog.csdn.net/tiantiandjava/article/details/46988461
+
+关于Servlet的getInitParameter的使用
+http://793404905.blog.51cto.com/6179428/1540259
+
+ java Web 启动时自动执行代码的几种方式
+http://blog.csdn.net/fcly2013/article/details/19984061
+
+java中 List 与Set 的区别 
+https://zhidao.baidu.com/question/184569858.html
+
+Java二维数组的声明和初始化
+http://blog.csdn.net/wuxinliulei/article/details/10826809
+
+oracle 得到序列的当前值
+http://blog.csdn.net/qq_34359363/article/details/54287388
+
+单例模式UML类图
+http://book.51cto.com/art/201511/498711.htm
+
+
+异常连接：
+java.sql.SQLException:Column count doesn't match value count at row 1
+http://blog.csdn.net/you23hai45/article/details/37535623
+
+JDBC 获取被插入数据的主键ID值
+除了用存储过程还有以下方法可以获取：
+http://www.cnblogs.com/flying607/p/3461980.html
+
+APP后台
+http://blog.csdn.net/column/details/mobilebackend.html?&page=2
+
+SOA面向服务架构
+http://www.jdon.com/soa.html
+
+SOA面试题
+http://www.jdon.com/soa/soa-interview.html
+
+我对autocommit以及select语句是否需要加事务的一点理解
+http://blog.csdn.net/aitangyong/article/details/50481161
+
+mysql select 会开启事务吗
+https://zhidao.baidu.com/question/812303213322023372.html
+
+MyBatis之主键返回
+http://blog.csdn.net/xiaohongsb/article/details/54619476
+
+myBatis +mysql自动生成uuid主键
+
+Spring事务管理的四种方式（以银行转账为例）
+http://blog.csdn.net/daijin888888/article/details/51822257
+
+ jstack命令(Java Stack Trace)
+http://blog.csdn.net/fenglibing/article/details/6411940
+--spring的事务管理
+--深度理解SpringIOC,AOP
+--mysql 数据库引擎
+--mysql 事务管理
+--dubbo
+--zookerpoor
+--springmvc 类 dispatcher webapplicationContext
+--mybatis和hibernate区别
+--select是否有事务
+
+如何做电子商务商城积分
+http://blog.sina.com.cn/s/blog_a3d2298201014bjv.html
+
+MySQL数据库的内容(几乎全部)删除后,还占用很大空间
+https://q.cnblogs.com/q/77210/	
+
+实例说明optimize table在优化mysql时很重要
+http://blog.csdn.net/yongchao940/article/details/55264142
+
+ Mysql中自增字段（AUTO_INCREMENT)的一些常识
+http://blog.csdn.net/andyzhaojianhui/article/details/42917451
+
+一句sql搞定Mysql删除数据后自增列从1开始
+http://blog.csdn.net/tang_huan_11/article/details/41344795
+
+mysql 中 isnull 和 ifnull 判断字段是否为null
+http://blog.csdn.net/cxqiang2013/article/details/35587295
+
+Mysql里表示布尔型的类型是什么
+https://zhidao.baidu.com/question/551470491.html
+
+SpringMVC通过ModelAndView向JSP页面传值
+http://blog.csdn.net/lansetiankong12/article/details/51769397
+
+SpringMVC文件上传与下载的实现
+http://download.csdn.net/download/lazyrabbitlll/9995875?locationNum=8&fps=1
+
+jQuery 数据 - jQuery.data() 方法
+http://www.w3school.com.cn/jquery/data_jquery_data.asp
+
+判断jQuery选择器结果为空
+http://blog.csdn.net/likingsnblog/article/details/41542711
+
+jquery 事件冒泡的介绍以及如何阻止事件冒泡
+http://www.jb51.net/article/32792.htm
+
+sql 获取一个表B中值，条件获取最大日期中的那条记录
+https://zhidao.baidu.com/question/811897928678817652.html	
+
+java编程:输入一串小写字符串，统计每个字母出现的次数
+http://blog.csdn.net/u012110719/article/details/42744957
+
+jstl中<c:forEach>的用法
+http://blog.csdn.net/honey_claire/article/details/7664165
+
+jQuery 事件 - focus() 方法
+http://www.w3school.com.cn/jquery/event_focus.asp	
+
+jQuery使用ajaxSubmit()提交表单示例
+http://www.jb51.net/article/48728.htm
+
+java学习：给登入界面添加键盘监听，按回车键登入
+http://blog.csdn.net/thehide/article/details/49824549
+
+jQuery - AJAX get() 和 post() 方法
+http://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp
+
+Spring官网
+http://spring.io/projects
+http://projects.spring.io/spring-framework/
+
+SpringMVC
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc
+
+行转列
+select min(id) ID,name,sex,sum(CASE WHEN num = 2 then 2 end ) as num2,sum(CASE WHEN num = 3 then 3 end ) as num3,sum(CASE WHEN num = 4 then 4 end ) as num4,sum(CASE WHEN num = 5 then 5 end ) as num5 from test_demo GROUP BY name,sex
+
+SpringMVC整合Hibernate
+http://blog.csdn.net/qq_31963849/article/details/52334204
+
+tools 地址
+http://tools.jboss.org/downloads/overview.html
+
+hibernatetools-Update-4.1.1.Final插件安装
+http://blog.csdn.net/csc_cockroach/article/details/52923083
+
+hibernate.hbm2ddl.auto配置详解
+http://blog.csdn.net/jiajane/article/details/47122939
+
+Java Date and Time系列（三）- java.util.Date介绍
+http://blog.csdn.net/pnet2008/article/details/17045991
+
+hibernate配置数据库连接池的三种方法
+http://blog.csdn.net/derpvailzhangfan/article/details/1565595
+
+对名为fido的文件用chmod 551 fido 进行了修改，则它的许可权是
+https://zhidao.baidu.com/question/1882137455326589428.html?qbl=relate_question_1&word=linux%20551
+
+Linux 删除文件夹和文件的命令
+https://jingyan.baidu.com/article/642c9d34dcba80644a46f72d.html
+
+css选择器的权值与优先规则
+http://blog.csdn.net/mrcxt/article/details/52024994
+
+Struts2的工作原理
+https://www.cnblogs.com/langtianya/archive/2013/04/09/3011090.html
+
+数据库中只存放视图的
+https://zhidao.baidu.com/question/80774276.html
+
+LRU缓存实现(Java)
+https://www.cnblogs.com/lzrabbit/p/3734850.html
+
+spring release 官方下载 
+http://repo.springsource.org/libs-release-local/org/springframework/spring/
+https://spring.io
+spring doc
+https://docs.spring.io/spring/docs/
+
+约束文件
+http://www.springframework.org/schema/
+
+Spring插件
+http://spring.io/tools/sts/all 
+   
+
+Spring最常见的十大异常
+http://blog.csdn.net/evo_steven/article/details/43985777
+
+硅谷
+http://www.atguigu.com/download.shtml#springmvc
+
+Oracle
+oracle中监听程序当前无法识别连接描述符中请求服务 的解决方法 
+http://blog.csdn.net/youbehui/article/details/53351346
+
+基于ORA-12170 TNS pl/sql Developer 连接本地超时解决办法
+http://blog.csdn.net/hekaihaw/article/details/51235363
+
+easyui 连接
+http://www.jeasyui.net/tutorial/147.html
+
+
+ 解决redis集群ruby版本过低
+http://blog.csdn.net/chenxinchongcn/article/details/78666374
+
+redis创建集群失败——can't connect to node 192.168.*.*
+http://blog.csdn.net/u010375663/article/details/52137006
+
+帝友P2P借贷系统
+http://www.dyp2p.com/module/a39.html
+帝友案例
+http://www.diyou.cn/case/a99.html
+
+tomcat7集群/会话复制如何
+http://tomcat.apache.org/tomcat-7.0-doc/cluster-howto.html
+
+tomcat7集群(session复制)
+http://blog.csdn.net/fengwind1/article/details/52163096
+
+kafka项目实例
+https://blog.csdn.net/jenyzhang/article/details/74919494
+
+Kafka入门实例
+https://blog.csdn.net/evankaka/article/details/52494412
+
+MyBatis 3.4.0 版本功能介绍
+https://blog.csdn.net/isea533/article/details/51533296
+
+
+
+我图网。
+http://www.ooopic.com/
+
+关于SpringDataJpa中findOne()方法报错问题
+https://blog.csdn.net/lzj4423996/article/details/79437687
+	我先是用的SpringDataJPA的1.11版本，可以使用findOne()方法根据id查询,
+
+	然后我使用了2.0.5版本，发现findOne()方法报错了，不能用来当作根据id查询了，
+
+2.0.5的已经变成了findById(id).get()来查询了。
+
+Maven的生命周期
+https://www.cnblogs.com/EasonJim/p/6816340.html
+
+maven的package与install命令区别 https://blog.csdn.net/bawcwchen/article/details/46957627
+
+http://www.cnblogs.com/sp5i5s/p/6995122.html mysql中索引利用情况（explain用法）
+
+Keepalived+Nginx实现高可用（HA） https://blog.csdn.net/xyang81/article/details/52556886
+
+https://www.cnblogs.com/hepingqingfeng/p/7263782.html Redis主从复制原理
+
+Springboot 版本+ jdk 版本 + Maven 版本的匹配
+https://blog.csdn.net/wj197927/article/details/79563081
+
+
+SqlServer 按日期查表，没有数据的日期显示为0
+https://blog.csdn.net/aPYXa/article/details/51474722
+
+
+
+spring jdbctemplate插入blob，clob并且返回生成的序列主键
+https://blog.csdn.net/simplty/article/details/52209163
+
+
+
+Springboot Mybatis MySQL读写分离及事物配置
+https://blog.csdn.net/wantnrun/article/details/79225018
+
+
+
+Mysql主从配置，实现读写分离
+https://www.cnblogs.com/alvin_xp/p/4162249.html
+
+
+使用Spring实现读写分离（ MySQL实现主从复制）
+https://blog.csdn.net/jack85986370/article/details/51559232
+
+
+Vector,ArrayList, LinkedList的区别
+https://www.cnblogs.com/zkk-wust/p/7250776.html
+
+Java ArrayList的自定义排序
+https://blog.csdn.net/tc_to_top/article/details/52525771
+
+
+SVN的delete和get lock，revert分别是什么作用和区别？
+https://www.zhihu.com/question/20757856
+
+
+Java 枚举(enum) 详解7种常见的用法
+https://blog.csdn.net/qq_27093465/article/details/52180865
+
+
+SpringMVC之组合注解@GetMapping
+https://blog.csdn.net/webzhuce/article/details/53319468 
+
+
+谷歌浏览器中安装JsonView扩展程序
+https://www.cnblogs.com/whycxb/p/7126116.html
+
+@JsonProperty的使用
+https://www.cnblogs.com/winner-0715/p/6109037.html?utm_source=itdadao&utm_medium=referral
+
+
+Nginx负载均衡与高可用的实现(backup)
+https://www.linuxidc.com/Linux/2016-04/130350.htm
+
+Keepalived+Nginx实现高可用（HA）
+https://blog.csdn.net/xyang81/article/details/52556886
+
+Linux下配置 Keepalived（心跳检测部署）
+https://blog.csdn.net/qiandublog/article/details/52474450
+
+
+（Mysql 四）普通索引（BTREE索引）的使用
+https://blog.csdn.net/u014453898/article/details/55006681
+
+
+SQL中IN和EXISTS用法的区别
+https://www.cnblogs.com/clarke157/p/7912871.html
+
+ORACLE-023：令人烦恼的 ora-01722 无效数字
+https://blog.csdn.net/yysyangyangyangshan/article/details/51762746
+
+
+Linux安装JDK1.8 软连接
+https://blog.csdn.net/zhang918784312/article/details/79751283
+
+
+
+
+linux卸载自带jdk
+https://www.cnblogs.com/gmq-sh/p/6977995.html
+
+Oracle 数据库查询优化方案
+https://blog.csdn.net/qq_kbyd/article/details/80525441
+
+查看linux当前版本
+getconf LONG_BIT
+
+json和java对象的相互转换（json-lib和Gson的使用）
+https://blog.csdn.net/guozili1/article/details/53994357
+
+
+FastJson、Jackson、Gson进行Java对象转换Json的细节处理
+https://www.cnblogs.com/GarfieldEr007/p/6822316.html
+
+Maven 的41种骨架：
+https://www.cnblogs.com/alfredinchange/p/5877416.html
+
+java集合--Queue用法
+https://www.cnblogs.com/samjustin/p/5785078.html
+
+
+
+分布式系统的架构思路
+http://www.cnblogs.com/chulung/p/5653135.html
+
+java volatile详解
+https://www.cnblogs.com/fswhq/p/java_volatile.html
+
+
+
+分布式事务解决方案
+https://www.cnblogs.com/aoshicangqiong/p/7726323.html
+
+
+递归实现二叉树
+https://blog.csdn.net/u011514810/article/details/75907170
+
+
+React视频
+链接：https://pan.baidu.com/s/11No7PozeBrLDLU7z6tGOPA 提取码：J29e
+
+
+高可用集群架构技术进阶篇手把手教你玩转Nginx与Docker 链接：https://pan.baidu.com/s/1NL0QKHQMmDkxqF-TzetdaA 
+密码：w61n
+
+https://pan.baidu.com/s/1KHOAw5Iy_5sREiDZh2M2zg 密码：c8sa
+
+https://www.jianshu.com/p/0f8e229f7cf0?from=message&isappinstalled=0 简书
+
+https://pan.baidu.com/s/1PdTdc1OhsunCEsiodAgCLg 密码：dblx  品优购
+
+http://www.itheima.com/course/javaeetext.html  黑马课程大纲
+
+https://www.cnblogs.com/likehua/p/3999538.html kafka
+
+https://licensez.com/ idea 激活码
+
+
+缓存那些事,缓存一致性问题爬坑记
+链接: https://pan.baidu.com/s/1lOrSKwKpaiQLqy1Te9pP6g 
+密码: efka
+
+高并发处理技术老司机带你玩转RabbitMq实现性能倍增
+链接: https://pan.baidu.com/s/1CMU5mq8N4YhFpMSqhMvQNA 
+密码: ikpy
+
+走向架构师，你必须了解的Java虚拟机高级特性
+链接: https://pan.baidu.com/s/1ny3Qjx04VjBqOlROw-XdeA 
+密码: tvrk
+
+高可用集群架构技术进阶篇手把手教你玩转Nginx与Docker
+链接: https://pan.baidu.com/s/1B41UPjIzDQlTA294F4wZUw 
+密码: vemg
+
+
+
+QQ277930977 P:18401632295  胡金才   
+Liunx : feicui root  
+	root NANREN520520提示
+
+bitblock= ===hjc520.. nanren520..
+
+
+flume是如何收集数据的?
+环境hadoop-2.6.1 Flume-1.6.0 Xfce终端
+首先我们的hadoop和flume在我们的linux服务器中，我们通过JSONHandler从远程客户端接受数据 在opt创建agent的配置文件，json.conf然后启动Flume代理，生成JSON格式的post request,相关信息可以在Flume代理这个终端看到，然后我们将数据写入到HDFS,
