@@ -1,3 +1,5 @@
+Linux file commond
+https://www.cnblogs.com/FrankLiner/p/8037425.html
 git 和commit区别
 https://blog.csdn.net/wei_zhi/article/details/50765981
 git基本使用教程
