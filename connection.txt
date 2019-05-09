@@ -1,3 +1,6 @@
+git白痴教程
+https://zhuanlan.zhihu.com/p/30044692
+
 Linux查看文件的最后几行
 https://www.cnblogs.com/qmfsun/p/6626361.html
 
